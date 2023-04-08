@@ -1,0 +1,32 @@
+@media (max-width:1024px) {
+    /**/
+}
+
+
+@media (max-width:991px) {
+    /**/
+    .text-content{
+        width: 100%;
+    }
+
+
+    .navigation-wrap .navbar-brand #logo1 img{
+        height:3.8125rem;
+    }
+
+    .navigation-wrap{
+        text-align: start;
+        background-color: url('../image/bg_2.jpg');
+    }
+    .navigation-wrap .nav-link{
+        line-height: 1.875rem;
+    }
+}
+
+@media (max-width:767px) {
+    /**/
+}
+
+@media (max-width:330px) {
+    /**/
+}
